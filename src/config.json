@@ -1,0 +1,9 @@
+{
+	"engineHost": "localhost",
+	"enginePort": 4848,
+	"appId": "engineData",
+	"server": false,
+	"userDirectory": "",
+	"userId": "",
+	"certificatesPath": "../Certificates"
+}
